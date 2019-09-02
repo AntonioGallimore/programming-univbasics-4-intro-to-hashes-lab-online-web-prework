@@ -4,8 +4,8 @@ end
 
 def my_hash
   my_hash={
-  name: => "James Bond"
-  tagline: => "007"
+  :name => "James Bond"
+  :tagline => "007"
   }
 end
 
