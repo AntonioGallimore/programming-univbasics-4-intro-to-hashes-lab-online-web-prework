@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash={James Bond, 007}
+  my_hash={James Bond, MoneyPenny}
 end
 
 def pioneer
