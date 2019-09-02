@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  [bestfriend]= "James Bond"
+  
 end
 
 def pioneer
