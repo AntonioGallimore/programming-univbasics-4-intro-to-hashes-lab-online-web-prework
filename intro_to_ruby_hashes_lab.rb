@@ -3,10 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash={
-  :name => "James Bond"
-  :tagline => "007"
-  }
+  
 end
 
 def pioneer
