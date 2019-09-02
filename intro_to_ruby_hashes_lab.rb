@@ -17,7 +17,7 @@ end
 
 def id_generator
   hash={
-    :id = 569
+    :id => 569
   }
 end
 
